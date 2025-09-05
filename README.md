@@ -25,10 +25,10 @@ Aqui estão alguns dos meus projetos mais relevantes até agora:
 
 | Projeto | Tecnologias | Descrição |
 |--------|-------------|------------|
-| **[JC MÓVEIS E PROJETADOS]** | HTML, CSS, JavaScript | Site com um monstruário dos principais móveis da loja JC Móveis e Projetados. |
-| ** [Réplica Spotify]** | HTML, CSS | Tela principal da página inicial do Spotify. |
-| **[Tela de Login - 1]** | HTML, CSS, JS | Tela de login moderna e elegante, com todas validações. |
-| **[Tela de Login - 2]** | HTML, CSS, JS | Tela de login com design descontraído e divertido. |
+| **[JC MÓVEIS E PROJETADOS](https://github.com/Cleberson2004/Site_JC)** | HTML, CSS, JavaScript | Site com um monstruário dos principais móveis da loja JC Móveis e Projetados. | 
+| ** [Réplica Spotify](https://github.com/Cleberson2004/Spotify-Replica)** | HTML, CSS | Tela principal da página inicial do Spotify. |
+| **[Tela de Login - 1](https://github.com/Cleberson2004/First-Form)** | HTML, CSS, JS | Tela de login moderna e elegante, com todas validações. |
+| **[Tela de Login - 2](https://github.com/Cleberson2004/Login_Morango)** | HTML, CSS, JS | Tela de login com design descontraído e divertido. |
 
 ➡️ *Veja todos os meus projetos [aqui](https://github.com/Cleberson2004).*
 
