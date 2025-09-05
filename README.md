@@ -37,9 +37,7 @@ Aqui estão alguns dos meus projetos mais relevantes até agora:
 ## 📫 Contato
 
 - **Email:** clebersondias2004@gmail.com
-- **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)  
-- **GitHub:** [github.com/seu-usuario](https://github.com/seu-usuario)
-
+- **LinkedIn:** [linkedin.com/clebersonl]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/cleberson-ribeiro-b6955629b/))  
 ---
 
 > “A melhor forma de prever o futuro é criá-lo.” – Alan Kay
