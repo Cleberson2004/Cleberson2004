@@ -19,7 +19,7 @@ Atualmente, tenho me dedicado ao estudo e desenvolvimento de projetos com as seg
 
 ---
 
-## 🚀 Principais Projetos
+## Principais Projetos
 
 Aqui estão alguns dos meus projetos mais relevantes até agora:
 
