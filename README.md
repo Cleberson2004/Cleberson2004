@@ -25,6 +25,7 @@ Aqui estão alguns dos meus projetos mais relevantes até agora:
 
 | Projeto | Tecnologias | Descrição |
 |--------|-------------|------------|
+| **[FLASHFOOD](https://github.com/Cleberson2004/FlashFood)** | LARAVEL, REACT, INERTIA JS | Um Sistema de Delivery com autenticação de Login/Cadastro, Criação de Itens para o  administrador, cardápio para os usuários, ver status do pedidos, Alterar o Status do Pedido no painel adminstrativo, e ver históricos de pedidos. | Utilizando as tecnologias mais modernas de React, Laravel e sua eficiência e a rapidez do Inertia.
 | **[NOTES](https://github.com/Cleberson2004/NOTES)** | LARAVEL | Um Sistema de Criação de notas, com Validações, Criptografias e telas funcionais utilizando o Blade Template Engine | 
 | **[JC MÓVEIS E PROJETADOS](https://github.com/Cleberson2004/Site_JC)** | HTML, CSS, JavaScript | Site com um monstruário dos principais móveis da loja JC Móveis e Projetados. | 
 | **[Réplica Spotify](https://github.com/Cleberson2004/Spotify-Replica)** | HTML, CSS | Tela principal da página inicial do Spotify. |
